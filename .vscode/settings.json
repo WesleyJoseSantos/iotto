@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iotto_file_manager.h": "c",
+        "string.h": "c",
+        "hardware_config.h": "c",
+        "tcp_config.h": "c",
+        "iotto_err.h": "c",
+        "iotto_json.h": "c",
+        "wifi_info.h": "c",
+        "type_traits": "c",
+        "mqtt_config.h": "c",
+        "iotto_request.h": "c",
+        "inttypes.h": "c"
+    }
+}
